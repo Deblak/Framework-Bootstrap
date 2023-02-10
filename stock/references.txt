@@ -1,0 +1,58 @@
+logo : https://www.flaticon.com/free-icon/bee_1228638#
+<a href="https://www.flaticon.com/free-icons/bee" title="bee icons">Bee icons created by Freepik - Flaticon</a>
+
+icones : <a href="https://www.flaticon.com/fr/icones-gratuites/pot-de-miel" title="pot de miel icônes">Pot de miel icônes créées par Vitaly Gorbachev - Flaticon</a>
+	<a href="https://www.flaticon.com/free-icons/grass" title="grass icons">Grass icons created by Freepik - Flaticon</a>
+
+photo 1 : https://unsplash.com/photos/c3RWaj8L3M8
+Photo by <a href="https://unsplash.com/@epan5?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Krzysztof  Niewolny</a> on <a href="https://unsplash.com/s/photos/bee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+photo 2 : https://unsplash.com/photos/hAYy2mFLjS8
+Photo by <a href="https://unsplash.com/@yungserif?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Meggyn Pomerleau</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Meggyn Pomerleau
+
+photo 3 : https://unsplash.com/photos/ZhA9vZQPTeE
+Photo by <a href="https://unsplash.com/@danika_anya?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Danika Perkinson</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Danika Perkinson
+
+photo 4 : https://unsplash.com/photos/mTNVvQvmoKs
+Photo by <a href="https://unsplash.com/@biancablah?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Bianca Ackermann</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Bianca Ackermann 
+
+photo 5 : https://www.pexels.com/fr-fr/photo/homme-tenue-ruche-2260932/
+Photo de Arthur Brognoli: https://www.pexels.com/fr-fr/photo/homme-tenue-ruche-2260932/
+
+photo 6 : https://www.pexels.com/fr-fr/photo/personne-tenant-un-nid-d-abeille-frais-2260933/
+Photo de Arthur Brognoli: https://www.pexels.com/fr-fr/photo/personne-tenant-un-nid-d-abeille-frais-2260933/
+
+photo 7 : https://www.pexels.com/fr-fr/photo/fleur-petale-jaune-avec-abeille-jaune-noir-pendant-la-photographie-de-mise-au-point-de-jour-63641/
+https://www.pexels.com/fr-fr/photo/fleur-petale-jaune-avec-abeille-jaune-noir-pendant-la-photographie-de-mise-au-point-de-jour-63641/
+
+photo 8 : https://www.pexels.com/fr-fr/photo/lit-de-fleurs-68507/
+Photo de Pixabay: https://www.pexels.com/fr-fr/photo/lit-de-fleurs-68507/
+
+photo 9 : https://www.pexels.com/fr-fr/photo/champ-de-fleurs-roses-et-violettes-262713/
+Photo de Pixabay: https://www.pexels.com/fr-fr/photo/champ-de-fleurs-roses-et-violettes-262713/
+
+photo 10 : https://unsplash.com/photos/HTZ-fjgIiLw
+Photo by <a href="https://unsplash.com/@jomarcha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jonathan Marchal</a> on <a href="https://unsplash.com/s/photos/land-france?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Jonathan Marchal
+
+photo 11 : https://unsplash.com/photos/RRhmemtmBS4
+Photo by <a href="https://unsplash.com/@zane404?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Zane Lee</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Zane Lee
+
+photo 12 : https://unsplash.com/photos/DOdBWKNsvAo
+Photo by <a href="https://unsplash.com/@catherine_gosselin11?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Catherine Gosselin</a> on <a href="https://unsplash.com/s/photos/verger?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Catherine Gosselin
+
+photo 13 : https://unsplash.com/photos/XzBluXxBoyQ
+Photo by <a href="https://unsplash.com/@adriensking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adrien King</a> on <a href="https://unsplash.com/s/photos/hand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Adrien King
+
+photo 14 : https://unsplash.com/photos/Asj5DFw8UAw
+Photo by <a href="https://unsplash.com/@artrachen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Art Rachen</a> on <a href="https://unsplash.com/s/photos/honey?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  Art Rachen
+
+
+  
