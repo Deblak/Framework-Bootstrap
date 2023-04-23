@@ -12,7 +12,7 @@ La page Bee-Garden présente un design épuré et moderne, avec plusieurs élém
 
 #Utilisation : 
 
-Pour utiliser Bee-Garden, il suffit de cloner ce dépôt Git sur votre machine locale et d'ouvrir le fichier index.html dans votre navigateur web. 
+Pour consulter la page Bee-Garden, il suffit d'aller ici : https://deblak.github.io/Bee-Garden/
 La page est réactive et s'adapte automatiquement à la taille de votre écran.
 
 #Conclusion : 
