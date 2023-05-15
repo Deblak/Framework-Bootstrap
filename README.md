@@ -18,4 +18,4 @@ La page est réactive et s'adapte automatiquement à la taille de votre écran.
 
 #Conclusion : 
 
-Bee-Garden est un projet simple mais efficace qui m'a permis de me familiariser avec Bootstrap 5 et les techniques de mise en page responsive. 
+Bee-Garden est une page simple mais efficace qui m'a permis de me familiariser avec Bootstrap 5 et les techniques de mise en page responsive. 
