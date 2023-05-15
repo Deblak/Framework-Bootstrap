@@ -12,7 +12,7 @@ La page Bee-Garden présente un design épuré et moderne, avec plusieurs élém
 
 #Utilisation : 
 
-Pour consulter la page Bee-Garden, il suffit d'aller ici : https://deblak.github.io/Bee-Garden/
+Pour consulter la page Bee-Garden, il suffit d'aller ici : https://deblak.github.io/Framework-Bootstrap/
 
 La page est réactive et s'adapte automatiquement à la taille de votre écran.
 
